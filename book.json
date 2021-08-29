@@ -1,5 +1,5 @@
 {
-  "title": "《GitBook Template》",
+  "title": "《HTTP 超文本传输协议》",
   "description": "描述",
   "language": "zh-hans",
   "author": "Jins Yin",
@@ -34,10 +34,10 @@
   ],
   "pluginsConfig": {
     "github": {
-      "url": "https://github.com/jinsyin/gitbook-template"
+      "url": "https://github.com/jinsyin/http"
     },
     "github-buttons": {
-      "repo": "jinsyin/gitbook-template",
+      "repo": "jinsyin/http",
       "types": [
         "star"
       ],
@@ -47,12 +47,12 @@
       "token": "UA-12345678-1"
     },
     "edit-link": {
-      "base": "https://github.com/jinsyin/gitbook-template/blob/master/",
+      "base": "https://github.com/jinsyin/http/blob/master/",
       "label": "编辑"
     },
     "favicon": "favicon.ico",
     "sitemap-general": {
-      "prefix": "https://githome.io/gitbook-template/"
+      "prefix": "https://githome.io/http/"
     },
     "page-toc": {
       "selector": ".markdown-section h2, .markdown-section h3, .markdown-section h4",
